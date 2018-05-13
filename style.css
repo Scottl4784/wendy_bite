@@ -44,3 +44,7 @@ footer {
 a {
     text-decoration: none;
 }
+
+.breadcrumb {
+    background-color: transparent;
+}
